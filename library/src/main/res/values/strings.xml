@@ -1,4 +1,7 @@
 <resources>
+  <!-- General -->
+  <string name="dialogButtonOk">OK</string>
+  <string name="dialogButtonCancel">Отмена</string>
   <!-- Содержимое текстовых полей и подписей кнопок (Layout: act_dir_picker) -->
   <string name="actLabel_filePicker">Выбор файла</string>
   <string name="actLabel_dirPicker">Выбор каталога</string>
